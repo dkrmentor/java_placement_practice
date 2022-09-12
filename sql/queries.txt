@@ -1,0 +1,12 @@
+1. Select Emp_ID, Country, Name, DOB, DOJ, Designation, Department, Salary from Employee
+Group By Country
+
+2. Select Avg(Salary) from Employee
+Where Country = some input 
+And Department = some input
+
+
+3. Select EmployeeName, Attendance from Employee Between DateTo And DateFrom
+
+
+4. Select Count(Leaves) from Employee Between DateTo And DateFrom

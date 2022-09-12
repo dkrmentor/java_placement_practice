@@ -1,0 +1,11 @@
+CREATE TABLE Employee(
+    EmpId INT NOT NULL,
+    EmpName VARCHAR(80),
+    EmpDOB DATETIME.
+    EmpDOJ DATETIME,
+    EmpDesignation VARCHAR(80),
+    Emp Department VARCHAR(80) ,    
+    EmpSalary FLOAT,
+    EmpAttendence FLAOT,
+    EmpLeave FLOAT
+);
